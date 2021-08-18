@@ -1,0 +1,90 @@
+/* BACKGROUND COLOR */
+.ce-portfolio .ce-filters ul li:after,
+.ce-item .icon li a:hover,
+.scroll-to-top,
+.team-content .team-social-icons li a:hover,
+.bg-image-with-blue-overlay::before,
+.pricing-section .nav-tabs .nav-link.active,
+.price-block:hover .price-header,
+.price-block .price-header.active,
+.widget.widget-search .input-group-append button.btn,
+.widget-tags ul li a:hover,
+.feature-list-inline li i.square,
+.bg-blue,
+.main-slider .owl-nav button.owl-prev,
+.main-slider .owl-nav button.owl-next,
+.testimonial-wrapper .owl-nav button.owl-prev,
+.testimonial-wrapper .owl-nav button.owl-next,
+.clients-section .owl-nav button.owl-prev,
+.clients-section .owl-nav button.owl-next,
+.blog-carousel .owl-nav button.owl-next,
+.blog-carousel .owl-nav button.owl-prev,
+.main-slider .owl-carousel button.owl-dot.active,
+.testimonial-wrapper .owl-carousel button.owl-dot.active,
+.clients-section .owl-carousel button.owl-dot.active,
+.ce-item:hover:before,
+.child-3.layout-3 .mainmenu > ul > li > a:before,
+.child-3.layout-3 .child-3-services:hover,
+.child-3.layout-3 .testimonial-detail .testimonial-img::after,
+.child-3.layout-3 .team-content,
+.child-3.layout-3 .team-content .team-social-icons li a:hover,
+.child-3.layout-3 .testimonial-detail .testimonial-img::before,
+.child-3.layout-3 .testimonial-detail .testimonial-img img,
+.child-3.layout-3 .input-group-append button.btn,
+.child-3.layout-3 .quote-form input[type="submit"], 
+.child-3.layout-3 .wpcf7-submit,
+.widget-area .widget .calendar_wrap table td#today, 
+.widget-area .widget .calendar_wrap table caption,
+.widget .calendar_wrap caption,
+.widget .calendar_wrap table td#today,
+.child-3.layout-3 .wc-product-block-v1 .wc-add-to-cart-btn > a, 
+.child-3.layout-3 .wc-product-block-v2 .wc-add-to-cart-btn > a, 
+.child-3.layout-3 .wc-product-block-v3 .wc-add-to-cart-btn > a,
+.child-3.layout-3 .wc-onsale,
+.child-3.layout-3 .main-footer .social-icons li a{
+	background-color: #e70000;
+}
+
+
+/* TEXT COLOR */
+.widget-area a:hover,
+.widget-meta ul li a span,
+.address-block i,
+/*a,*/
+.text-blue,
+.ce-logo,
+.ce-logo span,
+.about-features-content i,
+.about-features-content i.square,
+.ce-box .box-icon i,
+.read-more i,
+.ce-item .icon li a,
+.team-content h3,
+.post-wrapper:hover h1.post-title a,
+.post-meta li a:hover,
+.entry-header .entry-title a:hover,
+.entry-header .entry-title a:focus,
+.one-column-list li::before,
+.child-3.layout-3 .main-footer a:hover,
+.child-3.layout-3 .ce-logo > a,
+.child-3.layout-3 .child-3-services i,
+.child-3.layout-3 .post-meta .post-category a:hover, 
+.child-3.layout-3 .post-meta .post-category a:focus,
+.child-3.layout-3 .post-title a:hover,
+.child-3.layout-3 .ce-logo .site-title > a
+.child-3.layout-3 .wc-product-title a:hover,
+.child-3.layout-3 .ce-logo a,
+.child-3.layout-3 .wc-product-title a:hover{
+    color: #e70000 !important;
+}
+
+
+/* BORDER COLOR */
+.child-3.layout-3 .widget .widget-title,
+.child-3.layout-3 .widget-meta ul li a span,
+.pricing-layout-1 .price-body ul li:hover,
+.child-3.layout-3 .post-meta .post-category a:hover, 
+.child-3.layout-3 .post-meta .post-category a:focus,
+blockquote{
+	border-color: #e70000;
+}
